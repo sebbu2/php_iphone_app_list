@@ -1,0 +1,3 @@
+https://github.com/JonathanBeck/libplist/blob/master/src/bplist.c
+http://fileformats.archiveteam.org/wiki/Property_List/Binary
+http://opensource.apple.com/source/CF/CF-855.11/CFBinaryPList.c

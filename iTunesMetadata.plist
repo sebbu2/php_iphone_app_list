@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appleId</key>
+	<string>Locophone-ICPDA@cracked.by</string>
+	<key>artistId</key>
+	<integer>439290207</integer>
+	<key>artistName</key>
+	<string>Azumio Inc.</string>
+	<key>bundleDisplayName</key>
+	<string>Sleep Time</string>
+	<key>bundleShortVersionString</key>
+	<string>2.10</string>
+	<key>bundleVersion</key>
+	<string>2.10.4958</string>
+	<key>copyright</key>
+	<string>Azumio Inc.</string>
+	<key>drmVersionNumber</key>
+	<integer>0</integer>
+	<key>fileExtension</key>
+	<string>.app</string>
+	<key>genre</key>
+	<string>Health &amp; Fitness</string>
+	<key>genreId</key>
+	<integer>6013</integer>
+	<key>itemId</key>
+	<integer>498360026</integer>
+	<key>itemName</key>
+	<string>Sleep Time+  Alarm Clock and Sleep Cycle Analysis with Soundscape for Health and Fitness</string>
+	<key>kind</key>
+	<string>software</string>
+	<key>playlistArtistName</key>
+	<string>Azumio Inc.</string>
+	<key>playlistName</key>
+	<string>Sleep Time+  Alarm Clock and Sleep Cycle Analysis with Soundscape for Health and Fitness</string>
+	<key>product-type</key>
+	<string>ios-app</string>
+	<key>purchaseDate</key>
+	<date>1970-01-01T00:00:00Z</date>
+	<key>rating</key>
+	<dict>
+		<key>content</key>
+		<string></string>
+		<key>label</key>
+		<string>4+</string>
+		<key>rank</key>
+		<integer>100</integer>
+		<key>system</key>
+		<string>itunes-games</string>
+	</dict>
+	<key>releaseDate</key>
+	<string>2012-03-23T05:40:16Z</string>
+	<key>s</key>
+	<integer>143461</integer>
+	<key>softwareIcon57x57URL</key>
+	<string>http://a1805.phobos.apple.com/nz/r30/Purple/v4/48/98/36/48983666-7004-41d8-3e45-846a4788a1ee/Icon.png</string>
+	<key>softwareIconNeedsShine</key>
+	<false/>
+	<key>softwareSupportedDeviceIds</key>
+	<array>
+		<integer>2</integer>
+		<integer>9</integer>
+		<integer>4</integer>
+	</array>
+	<key>softwareVersionBundleId</key>
+	<string>com.azumio.iphone.sleepcycle</string>
+	<key>softwareVersionExternalIdentifier</key>
+	<integer>356542652</integer>
+	<key>softwareVersionExternalIdentifiers</key>
+	<array>
+		<integer>6118224</integer>
+		<integer>7059108</integer>
+		<integer>7339495</integer>
+		<integer>7467032</integer>
+		<integer>10724243</integer>
+		<integer>11680341</integer>
+		<integer>12912148</integer>
+		<integer>13504036</integer>
+		<integer>15813981</integer>
+		<integer>16014404</integer>
+		<integer>16180633</integer>
+		<integer>16614827</integer>
+		<integer>83864513</integer>
+		<integer>178472637</integer>
+		<integer>336742679</integer>
+		<integer>356542652</integer>
+	</array>
+	<key>vendorId</key>
+	<integer>574383</integer>
+	<key>versionRestrictions</key>
+	<integer>16843008</integer>
+</dict>
+</plist>
